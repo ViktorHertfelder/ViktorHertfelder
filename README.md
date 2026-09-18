@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ViktorHertfelder
 - 👀 I’m interested in Cars, Mobile App-Developement
 - 💻 Java and Kotlin Developer
-- 🏢 Currently employed as an apprentice at <a href="https://valtech-mobility.com">Valtech Mobility</a>
-- 📫 You can reach me via <a href="https://vik.technology">my Website</a> (wip) or via E-Mail: hertfelder@vik.technology
+- 🏢 Currently working as a freelance Developer and Consultant
+- 📫 You can reach me via <a href="https://hertfelder.io">my Website</a> (wip) or via E-Mail: viktor@hertfelder.io
 
 <!---
 ViktorHertfelder/ViktorHertfelder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
